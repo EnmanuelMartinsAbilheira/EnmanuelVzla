@@ -9,6 +9,7 @@
 - Currently attending Applied Artificial Intelligence specialty
 - Personal website [link](https://www.EnmanuelVzla.ml)
 - I am currently open for an internship or a new job opportunity, this is [my resume](https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/csv/enmanuel.pdf/)
+- I am currently open for an internship or a new job opportunity. You can view my resume [here](https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/csv/).
 
 <br><br>
 

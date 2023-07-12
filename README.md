@@ -1,8 +1,14 @@
-
+ <p align="center">
+  <img src="https://img.shields.io/badge/Age-23-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Applied%20Artificial%20Intelligence-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lives-Portugal-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portugues%20%26%20Spanish-maroon?style=for-the-badge" />
+</p>
 
 ## <picture><img src = "https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 
 - Passionate Full stack developer and self-taught artificial intelligence

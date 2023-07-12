@@ -122,9 +122,9 @@
   	<samp>
         <p align="center">
           <a href="https://github.com/EnmanuelVzla/">
-          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelVzla&theme=tokyonight"
+          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelVzla&show_icons=true&theme=tokyonight"
           alt="EnmanuelVzla :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelVzla&theme=tokyonight&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelVzla&show_icons=true&theme=tokyonight&layout=compact&hide_border=true"
           alt="EnmanuelVzla :: Top Langs by commit" />
           </a>
         </p>

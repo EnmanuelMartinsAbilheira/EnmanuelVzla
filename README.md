@@ -97,7 +97,7 @@
 <br>
 
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -113,12 +113,34 @@
 
 </a>
 </div>
+<br>
+  <div>
+  	<samp>
+        <p align="center">
+          <a href="https://github.com/EnmanuelVzla/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelVzla&theme=gruvbox&layout=compact&hide_border=true"
+          alt="EnmanuelVzla :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelVzla&theme=gruvbox&layout=compact&hide_border=true"
+          alt="EnmanuelVzla :: Top Langs by commit" />
+          </a>
+        </p>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/EnmanuelVzla/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EnmanuelVzla&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EnmanuelVzla&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+
 
 <br>
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 <br>
@@ -128,20 +150,34 @@
 <div align='left'>
 
 <ul>
-
-<li>
-<a href="https://linkedin.com/in/EnmanuelVzla" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  EnmanuelVzla-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:EnmanuelVzla@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  EnmanuelVzla-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+<div>
+  <samp>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://fb.com/EnmanuelVzla" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
 	
 </ul>
 </div>

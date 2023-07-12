@@ -1,7 +1,6 @@
 
 ## <picture><img src = "https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -13,8 +12,6 @@
 
 <br><br>
 
-<img src="https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/mdImages/Right_Side.gif" width = 250px><br><br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -25,7 +22,7 @@
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-    ![SQL](https://img.shields.io/badge/mysql%20-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+    ![MySQL](https://img.shields.io/badge/mysql%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
 
 
 <br>   
@@ -42,9 +39,10 @@
     
 - **Framework**:
 
-   ![Django](https://img.shields.io/badge/django%20-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-   ![Flask](https://img.shields.io/badge/flask%20-%231572B6.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-   ![React](https://img.shields.io/badge/-react-38B2AC?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+   ![Django](https://img.shields.io/badge/django%20-%092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+   ![Flask](https://img.shields.io/badge/flask%20-%A1F344.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+   ![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+   ![createreactapp](https://img.shields.io/badge/-createreactapp-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=black)&nbsp;
 
 
 <br>
@@ -62,6 +60,8 @@
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+    ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>

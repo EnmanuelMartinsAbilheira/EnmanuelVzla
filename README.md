@@ -4,11 +4,12 @@
 
 <br>
 
-- A passionate full stack developer and self-taught artificial intelligence
+- Passionate Full stack developer and self-taught artificial intelligence
 - Play chess and minecraft in spare time
-- Currently attending Applied Artificial Intelligence specialty
+- Currently attending a master's degree in Applied Artificial Intelligence.
 - Personal website [link](https://www.EnmanuelVzla.ml)
 - I am currently open for an internship or a new job opportunity, this is [my resume](https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/csv/)
+
 
 <br><br>
 
@@ -39,8 +40,8 @@
     
 - **Framework**:
 
-   ![Django](https://img.shields.io/badge/django%20-%092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-   ![Flask](https://img.shields.io/badge/flask%20-%A1F344.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+   ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+   ![Flask](https://img.shields.io/badge/flask-1f0304.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
    ![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
    ![createreactapp](https://img.shields.io/badge/-createreactapp-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=black)&nbsp;
 
@@ -50,6 +51,9 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![heroku](https://img.shields.io/badge/heroku-%235A436D.svg?style=for-the-badge&logo=heroku&logoColor=white)
+    ![amazonaws](https://img.shields.io/badge/amazonaws-%232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=black)
+    ![digitalocean](https://img.shields.io/badge/digitalocean-%23327FC7.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
     
 <br>
 

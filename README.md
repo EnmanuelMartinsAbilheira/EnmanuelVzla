@@ -41,7 +41,7 @@
 - **Framework**:
 
    ![Django](https://img.shields.io/badge/django%20-092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-   ![Flask](https://img.shields.io/badge/flask%20-1f0304.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+   ![Flask](https://img.shields.io/badge/flask%20-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
    ![React](https://img.shields.io/badge/-react%20-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
    ![createreactapp](https://img.shields.io/badge/-createreactapp%20-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=black)&nbsp;
 

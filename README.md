@@ -113,33 +113,30 @@
 
 <div align="center">
 
-<a href="https://github.com/EnmanuelVzla/">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnmanuelVzla&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnmanuelVzla&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="EnmanuelVzla"/>
+<a href="https://github.com/EnmanuelVzla/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=EnmanuelVzla&show_icons=true&theme=tokyonight">
+</a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnmanuelVzla\&layout=compact&theme=tokyonight)
 
-</a>
 </div>
 <br>
   <div>
   	<samp>
         <p align="center">
           <a href="https://github.com/EnmanuelVzla/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelVzla&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelVzla&theme=tokyonight"
           alt="EnmanuelVzla :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelVzla&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelVzla&theme=tokyonight&layout=compact&hide_border=true"
           alt="EnmanuelVzla :: Top Langs by commit" />
           </a>
         </p>
-  <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/EnmanuelVzla/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EnmanuelVzla&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EnmanuelVzla&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=EnmanuelVzla&theme=tokyonight&border_radius=11&card_width=508&ring=EBEBEB&fire=FF0000)](https://git.io/streak-stats" />
           </a>
        </p>
      <br>
      </samp>
   </div>    
+
 
 
 <br>

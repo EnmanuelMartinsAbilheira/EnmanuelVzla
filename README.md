@@ -114,7 +114,7 @@
 
 <div align="center">
 
-<a href="https://github.com/EnmanuelVzla/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=EnmanuelVzla&show_icons=true&theme=tokyonight">
+<a href="https://github.com/EnmanuelVzla/"><img src="https://github-readme-stats.vercel.app/api?username=EnmanuelVzla&show_icons=true&theme=tokyonight">
 </a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnmanuelVzla\&layout=compact&theme=tokyonight)
 
 </div>
@@ -123,15 +123,15 @@
   	<samp>
         <p align="center">
           <a href="https://github.com/EnmanuelVzla/">
-          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelVzla&show_icons=true&theme=tokyonight"
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmanuelVzla&show_icons=true&theme=tokyonight"
           alt="EnmanuelVzla :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelVzla&show_icons=true&theme=tokyonight&layout=compact&hide_border=true"
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnmanuelVzla&show_icons=true&theme=tokyonight&layout=compact&hide_border=true"
           alt="EnmanuelVzla :: Top Langs by commit" />
           </a>
         </p>
         <p align="center">
           <a href="https://github.com/EnmanuelVzla/">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=EnmanuelVzla&theme=tokyonight&border_radius=11&card_width=508&ring=EBEBEB&fire=FF0000)](https://git.io/streak-stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=EnmanuelVzla&theme=tokyonight&border_radius=11&card_width=508&ring=EBEBEB&fire=FF0000)](https://git.io/streak-stats" />
           </a>
        </p>
      <br>

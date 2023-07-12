@@ -11,8 +11,9 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 
+- graduate of computer systems engineering at the IPCA university
 - Passionate Full stack developer and self-taught artificial intelligence
-- Play chess and minecraft in spare time
+- Play chess in spare time
 - Currently attending a master's degree in Applied Artificial Intelligence.
 - Personal website [link](https://www.EnmanuelVzla.ml)
 - I am currently open for an internship or a new job opportunity, this is [my resume](https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/csv/)

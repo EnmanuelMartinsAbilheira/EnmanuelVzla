@@ -15,7 +15,6 @@
 - Passionate Full stack developer and self-taught artificial intelligence
 - Play chess in spare time
 - Currently attending a master's degree in Applied Artificial Intelligence.
-- Personal website [link](https://www.EnmanuelVzla.ml)
 - I am currently open for an internship or a new job opportunity, this is [my resume](https://github.com/EnmanuelVzla/EnmanuelVzla/raw/main/assets/csv/)
 
 

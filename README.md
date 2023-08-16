@@ -49,7 +49,6 @@
 - **Back-End Development**:
 
    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
 <br>
@@ -83,12 +82,10 @@
 
 - **Databases & Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
     ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
     ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
     ![amazonaws](https://img.shields.io/badge/amazonaws%20-%23F7DF1E.svg?style=for-the-badge&logo=amazonaws&logoColor=black)&nbsp;
-    ![digitalocean](https://img.shields.io/badge/digitalocean%20-%23327FC7.svg?style=for-the-badge&logo=digitalocean&logoColor=white)&nbsp;
-   ![MySQL](https://img.shields.io/badge/mysql%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
+    ![MySQL](https://img.shields.io/badge/mysql%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
